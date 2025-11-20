@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body
+  style="background: linear-gradient(to bottom, dodgerblue, aqua);background-image: url('fondo.png');background-repeat: no-repeat;background-size: cover;">
+  <audio src="tu-musica.mp3" autoplay loop controls>
+    Tu navegador no soporta audio.
+  </audio>
+  <!--Este es el titulo del juego -->
+  <center><img src=" titulo.png">
+    </h1>
+
+    <br>
+    <!--Este es el gif de sora y demas -->
+    <div style="display: flex; align-items: flex-start; gap: 20px;">
+      <img src="sora y demas.gif" alt="soragif"
+        style="width:500px; height:500px;border-radius:5px;border:5px solid aqua;float: left;opacity: 0.9;">
+      <br>
+      <!--La descripcion -->
+
+      <div style="background-color: rgba(30,144,255,0.5);
+width:500px;
+height: 400px;border-radius: 15px; padding: 10px;">
+        <div style="display: flex; align-items: center;">
+          <h1
+            style="font-family: 'Times New Roman', Times, serif cursive;text-align: left;text-decoration: underline;color: gold;text-shadow: 2px 2px 4px black;border-radius: 15px; padding: 10px; display: inline-block;">
+            Descripción</h1>
+          <img src="llaveespada.png" style="height: 40px; margin-left: 10px;">
+        </div>
+        <p style="text-align: left;font-family: 'Comic Sans MS';color: white;text-shadow: 2px 2px 4px black;">Elegí este
+          juego porque me marcó mucho desde pequeño y le tengo un cariño especial a sus personajes, además de su
+          historia
+          profundo con una buena caracterización y desarrollo de personajes, tambien me gustaria recalcar su jugabilidad
+          tan comoda desde los primeros juegos hasta los ultimos</p>
+      </div>
+    </div>
+    <!--De que trata el juego -->
+    <div
+      style="background-color: rgba(30,144,255,0.5); width: 600px; height: 200px; padding: 10px; margin: 0; float: left;border-radius: 15px; padding: 10px;margin:10px;">
+
+      <!-- Fila con h1 y la imagen a su derecha -->
+      <div style="display: flex; align-items: center; gap: 10px;">
+        <h1
+          style="font-family:'Times New Roman', Times, serif; color: gold; text-decoration: underline; text-shadow: 2px 2px 4px black; margin: 0;">
+          ¿De qué trata?
+        </h1>
+        <img src="llaveespada.png" style="height: 40px;">
+      </div>
+
+      <!-- Párrafo debajo -->
+      <p style="color: white; font-family: 'Comic Sans MS'; margin-top: 20px;">
+        Kingdom Hearts (KH) trata sobre Sora, un chico que viaja por distintos mundos inspirados en películas de Disney
+        para luchar contra criaturas llamadas Heartless y buscar a sus amigos Riku y Kairi. En el camino se une a
+        personajes
+        como Donald y Goofy, y enfrenta al misterioso Organization XIII mientras descubre secretos sobre la llave espada
+        (Keyblade) y el poder de la amistad y la luz frente a la oscuridad.
+      </p>
+
+    </div>
+
+    </div>
+    <br>
+
+    <!--Las cosas que mas me gustan -->
+    <h1 style="font-family: 'Comic Sans MS', cursive;color: blue;text-align: left;">Cosas que más me gustan</h1>
+    <ul
+      style="text-align: left;font-family: 'Comic Sans MS';background-color: lightblue; border-radius: 15px; padding: 10px; display: inline-block; margin: 0 auto; text-align: left;">
+      <li>Coffee</li>
+      <li>Tea</li>
+      <li>Milk</li>
+    </ul>
+</body>
+
+</html>
