@@ -67,14 +67,17 @@ height: 400px;border-radius: 15px; padding: 10px;">
     <br style="clear: both;">
 
     <!--Las cosas que mas me gustan -->
+    <div style="display: flex; align-items: center; gap: 10px;">
     <h1
       style="font-family: 'Times New Roman', Times, serif, cursive;color: gold;text-align: left;text-shadow: 2px 2px 4px black; margin: 0;;text-decoration: underline;">
       Cosas que más me gustan</h1>
+       <img src="llaveespada.png" style="height: 40px;">
+      </div>
     <ul
-      style="text-align: left;font-family: 'Comic Sans MS';background-color: lightblue; border-radius: 15px; padding: 10px; display: inline-block; margin: 10px 0 0 0; text-align: left;">
-      <li>Coffee</li>
-      <li>Tea</li>
-      <li>Milk</li>
+      style="text-align: left;font-family: 'Comic Sans MS';background-color: lightblue; border-radius: 15px; padding: 10px; display: inline-block; margin: 10px 0 0 0; text-align: left;background-color: rgba(30,144,255,0.5);color: white;text-shadow: 2px 2px 4px black;">
+      <li>Historia</li>
+      <li>Jugbilidad</li>
+      <li>Personajes</li>
     </ul>
 </body>
 
